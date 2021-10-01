@@ -10,7 +10,7 @@ PERCENTAGE = "percentage" # ten row dau tien cua sheet quy dinh percentage
 
 SORT_VAR = "position" # ten row dau tien cua sheet quy dinh percentage
 
-IMAGE_RATIO = 1128/1000 #height / width
+IMAGE_RATIO = 5682/5067 #height / width
 
 IMAGE_DESTINATION = "saved" #tro toi folder chua cac file da render
 
@@ -26,7 +26,7 @@ SUBLAYER = "sublayer"
 
 NUM_OF_ASSETS = "number"
 
-EMOTIONS = ["default" ,"angry", "nervous"]
+EMOTIONS = ["default" ,"angry", "nervous", "sad"]
 
 DEFAULT_EMO = "default"
 
